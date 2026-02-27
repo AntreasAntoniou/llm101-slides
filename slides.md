@@ -21,7 +21,7 @@ structured as markdown for easy reading, searching, and ingestion by AI agents.
 
 ### Slide 1 — LLM 101: Efficiency, Compression & Distillation — 2025
 
-Antreas Antoniou · AI Researcher · Lecturer · Founder, Axiotic AI MSc/PhD Lecture — 2025/2026 "How do we build intelligence that runs on fruit, not a power station?"
+Antreas Antoniou · AI Researcher · Engineer · Founder, Axiotic AI MSc/PhD Lecture — 2025/2026 "How do we build intelligence that runs on fruit, not a power station?"
 
 ### Slide 2 — Who Is Your Guide Today?
 
